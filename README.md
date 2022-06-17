@@ -83,3 +83,9 @@ Verify the block contents and hashes in the Streamlit drop-down menu. Take a scr
 Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the README.md file for your Challenge repository.
 
 ## Screenshots of Streamlit
+
+### Streamlit Blockchain Ledger:
+![screenshot of Streamlit blockchain ledger](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(40).png)
+
+### Streamlit Blockchain Ledger Validation:
+![screenshot of Streamlit blockchain ledger validation](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(41).png)
