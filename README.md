@@ -85,7 +85,9 @@ Test the blockchain validation process by using the web interface. Take a screen
 ## Screenshots of Streamlit
 
 ### Streamlit Blockchain Ledger:
-![screenshot of Streamlit blockchain ledger](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(40).png)
+![screenshot of Streamlit blockchain ledger](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(45).png)
+
+![screenshot of Streamlit blockchain ledger2](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(46).png)
 
 ### Streamlit Blockchain Ledger Validation:
-![screenshot of Streamlit blockchain ledger validation](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(41).png)
+![screenshot of Streamlit blockchain ledger validation](https://github.com/HilaryWillis/Blockchain_Ledger/blob/main/Screenshots/Screenshot%20(47).png)
